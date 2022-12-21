@@ -13,9 +13,5 @@ code {
 }
 
 .test {
-    background: #fafafa;
-    border: none;
-    box-shadow: 0px 0px 20px 5px #ffffffbf;
-    padding: .5rem 1rem;
-    border-radius: 6px;
+    align-items: center;
 }
